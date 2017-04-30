@@ -1,0 +1,9 @@
+1) git clone "url"   // pour mettre un dossier dans le pc qui contient tout les fichiers du repestori github // metre url du repesetori
+2) créer un fichier  // fichier qui sera envoyer sur le gitHub
+3) git add "fichier"	// choisi de quel(s) fichier(s) on parle pour la suite
+4) git commit --> mettre le com du changement 
+5) git push   // envoi de l'objet sur le gitHub dans le repesetory choisi
+
+
+
+Pour suppr un fichier : git rm
